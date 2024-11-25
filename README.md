@@ -1,4 +1,4 @@
-# Laptop Web Scraping  (Data Cleaning And Prepossing With KNN Imputer)
+# Laptop Web Scraping  (Data Cleaning And Processing With KNN Imputer)
 This project involves a comprehensive approach to cleaning and preprocessing an electronics product dataset. The dataset includes a wide variety of features, such as brand names, prices, customer ratings, screen sizes, processor details, and release years, among others. The data is riddled with challenges such as missing values, inconsistent formats, incorrect data types, and significant outliers, making it unsuitable for analysis or modeling in its raw form. By implementing advanced data cleaning techniques and preprocessing methods, this project aims to prepare the dataset for further analysis, visualization, and machine learning applications.
 
 
